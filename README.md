@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu Github 👋
 
-<!-- ![banner](http://img.thecodepost.org/2015/01/T-Rex-game-hidden.gif)
+<!-- ![banner](http://img.thecodepost.org/2015/01/T-Rex-game-hidden.gif) -->
 
 Atualmente, estou cursando a Graduação em **Sistemas de Informação**. 👨‍💻
 
