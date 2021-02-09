@@ -6,8 +6,8 @@ Atualmente, estou cursando a Graduação em **Sistemas de Informação**. 👨�
 
 Eu gosto de Desenvolvimento e Criação. Tecnologias que eu estou estudando:
 
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/rodrigo-gonçalves-santana"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>
+
 
 
 
