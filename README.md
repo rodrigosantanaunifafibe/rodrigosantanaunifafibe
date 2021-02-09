@@ -13,6 +13,10 @@ Eu gosto de Desenvolvimento e Criação. Tecnologias que eu estou estudando:
 
 Atualmente, estou utilizando as seguintes tecnologias:
 
+![Java](https://github.com/rodrigosantanaunifafibe/rodrigosantanaunifafibe/blob/main/java.png)
+![C#](https://github.com/rodrigosantanaunifafibe/rodrigosantanaunifafibe/blob/main/hashtag.png)
+![Python](https://github.com/rodrigosantanaunifafibe/rodrigosantanaunifafibe/blob/main/python.png)
+
 
 
 
